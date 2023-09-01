@@ -1,0 +1,17 @@
+/node_modules
+
+# dotenv environment variables file
+src/.env
+.env
+.env.test
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+dist
+
+# test some tips
+test.js
+.elasticbeanstalk/
+cert/
+
+dev-data/
